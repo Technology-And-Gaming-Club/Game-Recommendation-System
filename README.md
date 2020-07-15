@@ -22,4 +22,4 @@ A content based filtering recommendation system for Steam games using python.
 
 Dataset used from Kaggle: Steam Store Games (2019) by Nik Davis 
 
-Warning: Run with at least 7gb of RAM. Excution might take time depending on the hardware being used.
+Warning: Run with at least 7gb of RAM. Excution might take time depending on the hardware being used (Cloud services is highly recommended). 
