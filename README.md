@@ -5,7 +5,7 @@ A content based filtering recommendation system for Steam games using python.
 ## Libraries Used
 * Pandas
 * Sklearn
-* Optional: Google.colab, io 
+* Google.colab, io (Google Colab version)
 
 ## How to run:
 
