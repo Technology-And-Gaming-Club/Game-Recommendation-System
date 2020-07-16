@@ -1,4 +1,5 @@
 # Game-Recommendation-System
+<img src="https://img.shields.io/badge/Language-Python-blue.svg" alt="made with python">
 
 A content based filtering recommendation system for Steam games using python.
 
